@@ -38,14 +38,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
  ## Files 📁
  - Root
-   - public
-   - server
-   - src
-   - gitatributes
-   - gitignore
-   - lICENSE
-   - package-lock.json
-   - package.json
+   - frontend(public,src)
+   - backend(server)
+   - LICENSE
    - README.md
 
 ## AVAILABLE SCRIPTS
